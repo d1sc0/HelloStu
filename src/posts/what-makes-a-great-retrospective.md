@@ -6,8 +6,7 @@ image: "/images/avengers-assemble.jpg"
 ---
 > This was originally posted [here on Medium and cross posted to FutureGov's blog page](https://blog.wearefuturegov.com/what-makes-a-great-retrospective-eef24e1ef9d0) - As I'm no longer using medium I have copied below for the histotic feels!!
 
-![Avengers Assemble](/images/avengers-assemble.jpg)
-_Team Assemble...and bring sharpies plz!_
+![Team Assemble...and bring sharpies plz!](/images/avengers-assemble.jpg){.center}
 
 As a delivery manager running agile projects, my favourite tool in the agile arsenal is the [retrospective](http://searchsoftwarequality.techtarget.com/definition/Agile-retrospective). Having come from a background where waterfall projects reigned supreme I really appreciate how valuable having regular structured conversations with teams around improving delivery and team dynamics can be. Especially in comparison to the seldom completed and often ignored ‘lessons learned’ logs of old.
 
@@ -35,6 +34,6 @@ This one again is also obvious but vitally important. Retro’s should feel like
 
 Some retrospectives can feel like an amazing group therapy experience. That in itself is pretty cool and is potentially a good outcome but it shouldn’t be the only outcome. Make sure you allow time at the end of the discussion to summarise and also talk about next steps. How are we recording any actions to take forward? What is important to share with other teams and how? How will we know if we’ve achieved the improvements suggested? Allow enough time for this and maybe even have some sprint planning techniques up your sleeve to break down larger tasks so things feel achievable.
 
----
+***
 
 **Overall a retrospective, is a chance to reflect on what you, the team and the project are doing. Taking that time out is a really important way to continue to improve. The list above is not completely exhaustive and don’t feel the need to squeeze all of these ideas and thoughts into a single session. I’d love to hear what else would you add to my top 5. Answers on a post-it!?**
