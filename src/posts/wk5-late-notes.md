@@ -1,10 +1,10 @@
 ---
-title: Week5 - Late Notes
-date: '2019-05-01'
+title: 'Week 5: Late Notes'
+date: 2019-05-01
 tags:
-  - Weeknotes
----
+- Weeknotes
 
+---
 I was hoping to post these last Friday but I got side-tracked with all of the other things! Main point to note was that I returned back from a much needed Easter Break feeling massively refreshed.
 
 ## 3 Highlights
