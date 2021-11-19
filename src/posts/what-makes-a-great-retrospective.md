@@ -1,7 +1,7 @@
 ---
 title: What Makes a Great Retrospective
 date: 2017-12-04
-image: "/images/avengers-assemble.jpg"
+image: ''
 
 ---
 > This was originally posted [here on Medium and cross posted to FutureGov's blog page](https://blog.wearefuturegov.com/what-makes-a-great-retrospective-eef24e1ef9d0) - As I'm no longer using medium I have copied below for the histotic feels!!
