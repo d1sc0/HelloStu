@@ -1,10 +1,10 @@
 ---
-title: Week 1 - Be more like Robbie
-date: '2019-03-15'
+title: 'Week 1: Be more like Robbie'
+date: 2019-03-15
 tags:
-  - Weeknotes
----
+- Weeknotes
 
+---
 <iframe
   frameborder="0"
   allowfullscreen
