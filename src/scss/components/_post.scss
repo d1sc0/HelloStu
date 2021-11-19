@@ -15,8 +15,8 @@
     h3 {
       position: relative;
       /*display: flex;*/
-
-      // @include apply-utility('leading', 'tight');
+      font-size: get-size(600);
+      @include apply-utility('leading', 'tight');
     }
 
     a:not([class]) {
