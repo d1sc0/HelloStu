@@ -4,14 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: src/404.md
-  label: '404'
-  match: "**/*"
-- type: document
-  path: src/index.md
-  label: Home
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
@@ -23,6 +15,12 @@ sections:
   - post
 - type: heading
   label: Globals
+- type: document
+  path: src/index.md
+  label: Home
+- type: document
+  path: src/404.md
+  label: '404'
 - type: document
   path: src/_data/navigation.json
   label: Navigation
