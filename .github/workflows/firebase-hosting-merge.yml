@@ -7,7 +7,8 @@ name: Deploy to Firebase Hosting on merge
     branches:
       - forestry
 
-Build and deploy:
+jobs:
+  Build and deploy:
   runs-on: ubuntu-latest
   steps:
     - name: Checkout branch
