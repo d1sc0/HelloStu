@@ -1,7 +1,10 @@
 ---
 title: 'Week6 - Range'
 date: '2020-02-21'
-path: '/blog/wk6-range'
+layout: 'layouts/post.njk'
+metaTitle: ''
+metaDesc: ''
+socialImage: '/images/hackney_animal.jpg'
 tags:
   - Weeknotes
   - Rarenotes
