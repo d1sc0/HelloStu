@@ -4,19 +4,36 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Post title
 - type: datetime
   name: date
-  label: date
+  label: Published date
   default: now
   config:
     date_format: YYYY-MM-DD
     export_format: YYYY-MM-DD
 - type: list
   name: tags
-  label: tags
-- name: image
+  label: Tags
+- name: socialImage
   type: file
   config:
     maxSize: 64
-  label: image
+  label: Social Image
+- name: metaTitle
+  type: text
+  config:
+    required: false
+  label: SEO Meta Title
+- name: metaDesc
+  type: text
+  config:
+    required: false
+  label: SEO Meta Description
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: layouts/post.njk
