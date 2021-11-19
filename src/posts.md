@@ -1,4 +1,5 @@
 ---
-title: 'Posts'
-layout: 'layouts/posts.njk'
+title: All Posts
+layout: layouts/posts.njk
+
 ---
