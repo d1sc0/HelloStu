@@ -8,34 +8,34 @@ name: Deploy to Firebase Hosting on merge
       - forestry
 
 jobs:
-  Build and deploy:
-  runs-on: ubuntu-latest
-  steps:
-    - name: Checkout branch
-      uses: actions/checkout@v2
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v2
 
-    - name: Retrieve npm cache (if any)
-      uses: actions/cache@v2
-      with:
-        path: ~/.npm
-        key: npm-packages
+      - name: Retrieve npm cache (if any)
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: npm-packages
 
-    - name: Setup node
-      uses: actions/setup-node@v2
-      with:
-        node-version: 14
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install dependencies
+        run: npm install
 
-    - name: Build site
-      run: npm run build
+      - name: Build site
+        run: npm run build
 
-    - name: Deploy to firebase
-    - run: npm run deploy
-    - uses: FirebaseExtended/action-hosting-deploy@v0
-      with:
-        repoToken: '${{ secrets.GITHUB_TOKEN }}'
-        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_HELLOSTU_XYZ_ED8A4 }}'
-        channelId: live
-        projectId: hellostu-xyz-ed8a4
+      - name: Deploy to firebase
+      - run: npm run deploy
+      - uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_HELLOSTU_XYZ_ED8A4 }}'
+          channelId: live
+          projectId: hellostu-xyz-ed8a4
