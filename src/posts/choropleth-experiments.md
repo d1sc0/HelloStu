@@ -1,8 +1,8 @@
 ---
 title: Choropleth Experiments
-date: '2019-04-25'
----
+date: 2019-04-25
 
+---
 > This post was written whilst I was still using the ghost blogging platform. I haven't had time during migration to get this experiment working within my new Gatsby setup but if you are interested you can still see the results over at this [static page on github](https://d1sc0.github.io/choropleth_experiment/index.html)
 
 So I think I've now mentioned several times in my weeknotes that I've been bitten by the data visualisation bug during my recent course with the ODI. I've also mentioned that I found using Public Tableau for [one of my assignments](https://d1sc0.github.io/odi_assignment3/) fairly frustrating so wanted to play with some other tools and methods. The interactive [choropleth map](https://en.wikipedia.org/wiki/Choropleth_map) below is one of my first experiments in doing just that.
@@ -11,7 +11,7 @@ It's a pretty throw-away experiment and I put my hands up to having done no anal
 ![picture of choropleth map](/images/map-experiment.jpg){.center}
 
 I've used a combination of [leaflet js](https://leafletjs.com/) and [mapbox](https://www.mapbox.com/) for the presentation and interactivity. [This tutorial on the leaflet site](https://leafletjs.com/examples/choropleth/) was super helpful in getting me started.
-I was keen to be able to use some of the geometry from the [ONS geography portal](http://geoportal.statistics.gov.uk/) in my experiment as they have quite a few different geojson sets for things I'm interested in (boundaries of local authorities as an example). I did at one point go down the rabbit hole of directly using their API for the geometry and although I did get it working it meant using an additional leaflet plugin and some other complications which weren't really necessary whilst I'm not visualising live or changing data. I took a step back and decided to keep it simple for the moment.
+I was keen to be able to use some of the geometry from the [ONS geography portal](http://geoportal.statistics.gov.uk/) in my experiment as they have quite a few different geojson sets for things I'm interested in (boundaries of local authorities as an example). I did at one point go down the rabbit hole of directly using their API for the geometry and although I did get it working it meant using an additional leaflet plugin and some other complications which weren't really necessary whilst I'm not visualising live or changing data. I took a step back and decided to keep it simple for the moment. 
 
 I also wanted a method of keeping this [geometry data](https://s3.amazonaws.com/words.lost.extra/firedata2.js) a little more segregated from the actual statistical data than they did in the sample tutorial. I'm now holding the data in [another external js file](https://s3.amazonaws.com/words.lost.extra/fireincdata2.js) and using some very ugly javascript (I mostly understand) to link the two together using a common key (I'm no coder 🤪). However dirty and ugly the code might be it works 🎉 and that's mostly what I'm concerned about whilst playing and prototyping. Taking this approach means that I can swap data and geometry in and out fairly easily when needing to create new versions and different experiments across different posts on this site without really having to do anything other than make very small tweaks to a copy of the script and reference the two external files (geometry and data). It also means I can easily work with and update my dataset in something like google sheets and convert into json pretty easily and be ready to rock.
 

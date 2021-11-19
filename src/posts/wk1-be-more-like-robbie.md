@@ -5,13 +5,11 @@ tags:
 - Weeknotes
 
 ---
-<iframe
-  frameborder="0"
-  allowfullscreen
-  scrolling="no"
-  allowtransparency
-  src="https://giphy.com/embed/XIqCQx02E1U9W"
-></iframe>
+<iframe frameborder="0"
+allowfullscreen
+scrolling="no"
+allowtransparency
+src="https://giphy.com/embed/XIqCQx02E1U9W"> </iframe>
 
 I’ve tried to write [weeknotes](https://weeknot.es/) on multiple occasions and failed. They always end up in the bin. I find writing hard and I find committing my own opinions and thoughts down is often followed by much self-doubt and anxiety that people will judge me as stupid, incompetent or arrogant. I always enjoy dipping into the weeknotes of others though and get lots from them (far too many people to list). I’ve always believed there is value in reflecting, sharing and being open. Reflection is **not** something I struggle with and it’s odd that in conversation I am prone to often over-sharing and extreme transparency (sorry colleagues!) but in written form I often can’t find my voice.
 
@@ -35,12 +33,11 @@ As [FutureGov grows to increase our impact](https://www.wearefuturegov.com/impac
 This weeks assignment had me visualising data to tell a story around some Fire Service data we’d analysed in the previous week. Both my analysis, story and data viz skills will obviously need more practice but you can [check out my efforts here](https://d1sc0.github.io/odi_assignment3/) if you’re interested. I’ve definitely learnt heaps in the last 4 weeks and looking forward to the last few. The assignment also gave me a nice excuse to put together ‘a thing’ and was the first time I’d fired up Cloud9 and made any GitHub commits in months. I found [Tableau Public](https://public.tableau.com/en-us/s/) a little frustrating to get to grips with but following a few colourful words I wrestled it to a point where it was doing much of what I wanted. I’m adding exploration of some other tools into my backlog.
 
 <iframe
-  frameborder="0"
-  allowfullscreen
-  scrolling="no"
-  allowtransparency
-  src="https://giphy.com/embed/QQKhpfeRQqz6M"
-></iframe>
+frameborder="0"
+allowfullscreen
+scrolling="no"
+allowtransparency
+src="https://giphy.com/embed/QQKhpfeRQqz6M"></iframe>
 
 ## Things I’m learning
 
@@ -54,12 +51,6 @@ This weeks assignment had me visualising data to tell a story around some Fire S
 
 **Link:** [Article 50 Petition](https://twitter.com/emilytulloh) (admirably hanging in there) and subsequently [this](https://odileeds.org/projects/petitions/?241584)  
 **Track:** [All the single ladies](https://www.youtube.com/watch?v=4m1EFMoRFvY) — I blame [Lil!](https://twitter.com/liliasadair?) 💍  
-**Instagram:** When stickers go rogue!
+**Instagram:** When stickers go rogue! 
 
-<iframe
-  frameborder="0"
-  allowfullscreen
-  scrolling="no"
-  allowtransparency
-  src="https://www.instagram.com/p/BvRE_q_gww5/embed"
-></iframe>
+<iframe frameborder="0" allowfullscreen scrolling="no" allowtransparency src="https://www.instagram.com/p/BvRE_q_gww5/embed"></iframe>
