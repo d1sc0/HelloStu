@@ -1,6 +1,16 @@
 const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const fs = require('fs');
+const markdownIt = require('markdown-it');
+const markdownItAttrs = require('markdown-it-attrs');
+
+const markdownItOptions = {
+  html: true,
+  breaks: true,
+  linkify: true
+};
+
+const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs);
 
 // Import filters
 const dateFilter = require('./src/filters/date-filter.js');
@@ -15,6 +25,8 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 const site = require('./src/_data/site.json');
 
 module.exports = function(config) {
+  //Markdown options
+  config.setLibrary('md', markdownLib);
   // Filters
   config.addFilter('dateFilter', dateFilter);
   config.addFilter('markdownFilter', markdownFilter);

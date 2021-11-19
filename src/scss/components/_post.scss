@@ -5,6 +5,7 @@
     /**
      * Generic HTML styles 
      */
+
     h2 + *,
     h3 + * {
       --flow-space: #{get-size(500)};

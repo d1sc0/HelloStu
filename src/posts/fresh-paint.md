@@ -5,7 +5,7 @@ tags:
   - tech and data
 ---
 
-![Fresh paint](/images/spraycans.jpg)
+![Fresh paint](/images/spraycans.jpg){.center}
 
 It feels like I change blogging platforms more often than I actually write blog posts...but rather than just a desire to apply a fresh coat of paint this time my rebuild had purpose. I had three main goals in mind...
 
