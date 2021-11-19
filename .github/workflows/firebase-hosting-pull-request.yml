@@ -10,8 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: >-
-          npm install &&
-          npm run sass:process && npm run cms:precompile && npm run cms:bundle && npx eleventy
+        npx eleventy
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
