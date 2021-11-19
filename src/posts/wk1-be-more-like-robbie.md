@@ -5,12 +5,11 @@ tags:
 - Weeknotes
 
 ---
-<iframe
-frameborder="0"
+<iframe frameborder="0"
 allowfullscreen
 scrolling="no"
 allowtransparency
-src="https://giphy.com/embed/XIqCQx02E1U9W"></iframe>
+src="https://giphy.com/embed/XIqCQx02E1U9W"> </iframe>
 
 I’ve tried to write [weeknotes](https://weeknot.es/) on multiple occasions and failed. They always end up in the bin. I find writing hard and I find committing my own opinions and thoughts down is often followed by much self-doubt and anxiety that people will judge me as stupid, incompetent or arrogant. I always enjoy dipping into the weeknotes of others though and get lots from them (far too many people to list). I’ve always believed there is value in reflecting, sharing and being open. Reflection is **not** something I struggle with and it’s odd that in conversation I am prone to often over-sharing and extreme transparency (sorry colleagues!) but in written form I often can’t find my voice.
 
@@ -38,9 +37,7 @@ frameborder="0"
 allowfullscreen
 scrolling="no"
 allowtransparency
-src="https://giphy.com/embed/QQKhpfeRQqz6M"
-
-> </iframe>
+src="https://giphy.com/embed/QQKhpfeRQqz6M"></iframe>
 
 ## Things I’m learning
 
@@ -56,4 +53,4 @@ src="https://giphy.com/embed/QQKhpfeRQqz6M"
 **Track:** [All the single ladies](https://www.youtube.com/watch?v=4m1EFMoRFvY) — I blame [Lil!](https://twitter.com/liliasadair?) 💍  
 **Instagram:** When stickers go rogue! 
 
-<iframe width="800px" height="800" frameborder="0" allowfullscreen scrolling="no" allowtransparency src="https://www.instagram.com/p/BvRE_q_gww5/embed"></iframe>
+<iframe frameborder="0" allowfullscreen scrolling="no" allowtransparency src="https://www.instagram.com/p/BvRE_q_gww5/embed"></iframe>
