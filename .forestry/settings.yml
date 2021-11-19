@@ -14,13 +14,15 @@ sections:
   templates:
   - post
 - type: heading
-  label: Globals
-- type: document
-  path: src/index.md
-  label: Home
+  label: Pages
 - type: document
   path: src/404.md
   label: '404'
+- type: document
+  path: src/index.md
+  label: Home
+- type: heading
+  label: Global
 - type: document
   path: src/_data/navigation.json
   label: Navigation
