@@ -8,9 +8,8 @@ metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
 socialImage: ''
 
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry
-CMS](https://forestry.io/) pre-configured, so that you can one-click install a
-progressive, accessible blog in minutes. It also gives you a well organised
-starting point to extend yourself.
+Hello, I'm [Stuart Mackenzie](https://hellostuxyzmaster.gatsbyjs.io/about).
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/dirtyf/hylia)
+I'm an Executive Director at [FutureGov](https://www.wearefuturegov.com/). I'm also known for being a father, husband, runner, photography nerd, dog owner and exotic disco dancer.
+
+I use this site to share personal [thoughts and reflections](https://hellostuxyzmaster.gatsbyjs.io/blog) but also occassionally as a sandpit to prototype and test ideas in code.
