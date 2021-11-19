@@ -40,16 +40,4 @@
     "serve": "cross-env ELEVENTY_ENV=development npx eleventy --serve",
     "build": "npm run clean && npm run sass:process && npm run cms:precompile && npm run cms:bundle && npx eleventy",
     "deploy": "npx firebase deploy"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hankchizljaw/hylia.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hankchizljaw/hylia/issues"
-  },
-  "homepage": "https://github.com/hankchizljaw/hylia#readme"
-}
+  }}
