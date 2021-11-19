@@ -4,8 +4,16 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: local('Lora Bold'), local('Lora-Bold'),
-    url('/fonts/lora-v13-latin-700.woff') format('woff');
+  src: local('Lora Bold'), url('/fonts/lora-v13-latin-700.woff') format('woff');
+}
+
+/* nanum-pen-script-regular - latin */
+@font-face {
+  font-family: 'Nanum Pen Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nanum Pen Script'),
+    url('/fonts/nanum-pen-script-v15-latin-regular.woff') format('woff');
 }
 
 body {
