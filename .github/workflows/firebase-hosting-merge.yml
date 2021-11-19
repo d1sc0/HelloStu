@@ -8,20 +8,20 @@ name: Deploy to Firebase Hosting on push/merge
       - forestry
 
 jobs:
-  build:
+  build_and_deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout branch
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
       - name: Retrieve npm cache (if any)
-        uses: actions/cache@v2
+      - uses: actions/cache@v2
         with:
           path: ~/.npm
           key: npm-packages
 
       - name: Setup node
-        uses: actions/setup-node@v2
+      - uses: actions/setup-node@v2
         with:
           node-version: 14
 
