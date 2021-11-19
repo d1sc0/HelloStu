@@ -3,7 +3,7 @@ title: About
 permalink: "/about.html"
 
 ---
-I live in [Dorset](https://www.visit-dorset.com/) along with my wife Chloe, daughter Robyn and [four-legged friend Monty](https://www.instagram.com/m0nty_d0g/). I now spend much of my time working out of London transforming public services as an Executive Director at [FutureGov](https://wearefuturegov.com/).
+![](/images/hellostu.jpg)I live in [Dorset](https://www.visit-dorset.com/) along with my wife Chloe, daughter Robyn and [four-legged friend Monty](https://www.instagram.com/m0nty_d0g/). I now spend much of my time working out of London transforming public services as an Executive Director at [FutureGov](https://wearefuturegov.com/).
 
 I've worked in a variety of technology & management roles over the last 20 years but largely I prefer people to computers and code. I'm slightly obsessed (in a healthy way) in making change happen within organisations and I'm happiest when supporting teams and clients navigate complexity (human and technical) to deliver better outcomes for users.
 
