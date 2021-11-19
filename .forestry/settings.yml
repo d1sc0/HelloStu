@@ -16,11 +16,19 @@ sections:
 - type: heading
   label: Pages
 - type: document
+  path: src/pages/about.md
+  label: About
+  match: "**/*"
+- type: document
   path: src/404.md
   label: '404'
 - type: document
   path: src/index.md
   label: Home
+- type: document
+  path: src/posts.md
+  label: Posts
+  match: "**/*"
 - type: heading
   label: Global
 - type: document
