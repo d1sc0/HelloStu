@@ -54,6 +54,6 @@ src="https://giphy.com/embed/QQKhpfeRQqz6M"
 
 **Link:** [Article 50 Petition](https://twitter.com/emilytulloh) (admirably hanging in there) and subsequently [this](https://odileeds.org/projects/petitions/?241584)  
 **Track:** [All the single ladies](https://www.youtube.com/watch?v=4m1EFMoRFvY) — I blame [Lil!](https://twitter.com/liliasadair?) 💍  
-**Instagram:** When stickers go rogue!
+**Instagram:** When stickers go rogue! 
 
 <iframe width="800px" height="800" frameborder="0" allowfullscreen scrolling="no" allowtransparency src="https://www.instagram.com/p/BvRE_q_gww5/embed"></iframe>
