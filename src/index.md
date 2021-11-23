@@ -6,7 +6,7 @@ archiveButtonText: See all posts
 metaDesc: Thoughts and reflections from Stuart Mackenzie -  Exec Director and coach
   at FutureGov - also known as a father, husband, occasional runner, podcaster, photographer,
   blogger and pretty nice human.
-socialImage: ''
+socialImage: " /images/hello-icon.png"
 
 ---
 I'm an Executive Director and Coach at [FutureGov](https://www.wearefuturegov.com/). I'm also known for being a father, husband, runner, photography nerd, dog owner and exotic disco dancer.
