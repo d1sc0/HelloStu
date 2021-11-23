@@ -3,6 +3,7 @@ title: 'Week 1: Be more like Robbie'
 date: 2019-03-15
 tags:
 - Weeknotes
+socialImage: "/images/twitter-card-square.jpg"
 
 ---
 <iframe frameborder="0"
