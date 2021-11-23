@@ -1,12 +1,13 @@
 ---
 title: Let's keep talking about this
-date: '2019-10-15'
-path: '/blog/lets-keep-talking-about-this'
+date: 2019-10-15
+path: "/blog/lets-keep-talking-about-this"
 tags:
-  - BLAW2020
-  - hello friend
----
+- BLAW2020
+- hello friend
+socialImage: "/images/twitter-card-square.jpg"
 
+---
 <iframe
   frameborder="0"
   allowfullscreen
