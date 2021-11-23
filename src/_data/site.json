@@ -8,5 +8,6 @@
   "authorName": "Stuart Mackenzie",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "fontawesomeKit": "https://kit.fontawesome.com/714ec8d0ca.js"
 }
