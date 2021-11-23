@@ -2,6 +2,12 @@
 title: What Makes a Great Retrospective
 date: 2017-12-04
 image: "/images/avengers-assemble.jpg"
+metaTitle: What Makes a Great Retrospective
+metaDesc: As a delivery manager running agile projects, my favourite tool in the agile
+  arsenal is the retrospective. Having come from a background where waterfall projects
+  reigned supreme I really appreciate how valuable having regular structured conversations
+  with teams around improving delivery and team dynamics can be.
+socialImage: "/images/avengers-assemble.jpg"
 
 ---
 > This was originally posted [here on Medium and cross posted to FutureGov's blog page](https://blog.wearefuturegov.com/what-makes-a-great-retrospective-eef24e1ef9d0) - As I'm no longer using medium I have copied below for the histotic feels!!
