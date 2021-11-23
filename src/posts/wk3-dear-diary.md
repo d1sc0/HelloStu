@@ -3,6 +3,7 @@ title: 'Week 3: Dear Diary'
 date: 2019-04-06
 tags:
 - Weeknotes
+socialImage: "/images/twitter-card-square.jpg"
 
 ---
 _3 weeks of #weeknotes and 3 weeks without smoking! 🎉_
