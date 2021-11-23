@@ -1,8 +1,9 @@
 ---
 title: LocalGovCamp 2017
-date: '2017-09-26'
----
+date: 2017-09-26
+socialImage: "/images/localgovcamp.jpeg"
 
+---
 > This was originally posted [here on Medium and cross posted to FutureGov's blog page](https://blog.wearefuturegov.com/my-localgovcamp-experience-15412b7ad314) - As I'm no longer using medium I have copied below for the histotic feels!!
 
 Recently I had the pleasure of attending my first [LocalGovCamp and Fringe!](http://localgovdigital.info/localgovcamp/) FutureGov was one of the event sponsors, so a few of us went along to lend a hand and also participate at the unconference on Saturday.
