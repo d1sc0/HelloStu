@@ -13,6 +13,6 @@ Having a website also provides me a sandbox to test ideas and prototype in code.
 
 I'm always open to making new connections with people. My social profiles are included at the top of this page if you want to get in touch or just be nosey but I've also provided a good old-fashioned [contact form](https://hellostuxyzmaster.gatsbyjs.io/contact) if that's more your thing!
 
-For those interested in technology the site in it's current form has been built using [Gatsby](https://www.gatsbyjs.org/) which is currently my favourite static site generator. I tend to write posts using [Typora](https://www.typora.io/) which is a beautiful cross platform clutter-free markdown editor. I use [Firebase](https://firebase.google.com/) for hosting the static files. All of the code and content is maintained in [Github](https://github.com/d1sc0/hello-stu).  
-  
-![](/images/hellostu.jpg)
+For those interested in technology the site in it's current form has been built using [Gatsby](https://www.gatsbyjs.org/) which is currently my favourite static site generator. I tend to write posts using [Typora](https://www.typora.io/) which is a beautiful cross platform clutter-free markdown editor. I use [Firebase](https://firebase.google.com/) for hosting the static files. All of the code and content is maintained in [Github](https://github.com/d1sc0/hello-stu).
+
+![](/images/hellostu.jpg){.left}
