@@ -13,17 +13,19 @@
     {
       "text": "Posts",
       "url": "/posts",
-      "external": ""
+      "external": false
     },
     {
       "text": "GitHub",
       "url": "https://github.com/d1sc0",
-      "external": true
+      "external": true,
+      "icon": "icon"
     },
     {
       "text": "Twitter",
       "url": "https://twitter.com/_disco",
-      "external": true
+      "external": true,
+      "icon": "icon"
     }
   ]
 }
