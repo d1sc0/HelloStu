@@ -11,4 +11,4 @@ socialImage: "/images/twitter-card-square.jpg"
 ---
 I'm an Executive Director and Coach at [FutureGov](https://www.wearefuturegov.com/). I'm also known for being a father, husband, runner, photography nerd, dog owner and exotic disco dancer.
 
-I use this site to share personal [thoughts and reflections](https://hellostuxyzmaster.gatsbyjs.io/blog) but also occasionally as a sandpit to prototype and test ideas in code [\[...\]](/about "read more")
+I use this site to share personal [thoughts and reflections](/posts) but also occasionally as a sandpit to prototype and test ideas in code [\[...\]](/about "read more")
