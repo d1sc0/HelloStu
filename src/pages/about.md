@@ -15,4 +15,4 @@ I'm always open to making new connections with people. My social profiles are in
 
 For those interested in technology the site in it's current form has been built using [Gatsby](https://www.gatsbyjs.org/) which is currently my favourite static site generator. I tend to write posts using [Typora](https://www.typora.io/) which is a beautiful cross platform clutter-free markdown editor. I use [Firebase](https://firebase.google.com/) for hosting the static files. All of the code and content is maintained in [Github](https://github.com/d1sc0/hello-stu).
 
-![](/images/hellostu.jpg){.left}
+![Stuart Mackenzie](/images/hellostu.jpg){.left}
